@@ -1,7 +1,0 @@
-CREATE TABLE 'signup' (
-'ID' int(255) AUTO_INCREMENT NOT NULL PRIMARY KEY,
-`name` varchar(120) DEFAULT NULL
-)ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
-
-CREATE TABLE `vehicle-parking-db`.`signup` ( `id` INT(255) NULL AUTO_INCREMENT , `name` VARCHAR(500) NULL , `username` VARCHAR(500) NOT NULL , `email` VARCHAR NOT NULL , `lol` VARCHAR NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
