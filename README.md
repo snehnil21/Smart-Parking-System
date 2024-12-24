@@ -8,43 +8,20 @@ walking distance to your destination from your vehicle, safety of the vehicle,
  it gets more difficult to operate around the town. The system solves all this 
  parking cycle issues.
 
- ### Admin Home Page
-# Smart-parking
-
-## Standlone application
-Smart parking portal is a parking guidance and reservation system in towns.
-Looking for spaces to park can be really hectic in busy town in regard to 
-walking distance to your destination from your vehicle, safety of the vehicle,
- payment for the service among others. If one happens to be a stranger in town 
- it gets more difficult to operate around the town. The system solves all this 
- parking cycle issues.
 
  ### Admin Home Page
- ![image](https://github.com/user-attachments/assets/81fbf0a2-8d80-4520-8b43-57569081fc9a)
- 
+![image](https://github.com/user-attachments/assets/a9097442-b336-437b-bea1-92a75800e0ff)
+
  ### Admin login Page
- ![image](https://github.com/user-attachments/assets/fabb7239-e005-4434-a6bc-43cab1ec6a7e)
+ ![image](https://github.com/user-attachments/assets/40d270e3-8d7d-413e-bf34-54855bd5bc92)
 
 ### Adding vechicle detailes
-![image](https://github.com/user-attachments/assets/7e9d4b4f-39a9-438f-88a1-5fdcf95e3086)
+![image](https://github.com/user-attachments/assets/c7b29dad-dedd-4bde-ace6-751f9d3d151b)
+
 
 ### User registration Page
-![image](https://github.com/user-attachments/assets/cd75773f-13ee-4063-b361-4a5289c54902)
+![image](https://github.com/user-attachments/assets/832a0e63-1fa2-4fc0-97d5-361da9021d8b)
+
 
 ###  Payment Page
-![image](https://github.com/user-attachments/assets/e92050e8-5e36-4a4b-a91d-1ba8d17beee5)
-
-
- 
- ### Admin login Page
- ![image](https://github.com/user-attachments/fabb7239-e005-4434-a6bc-43cab1ec6a7e)
-
-### Adding vechicle detailes
-![image](https://github.com/user-attachments/7e9d4b4f-39a9-438f-88a1-5fdcf95e3086)
-
-### User registration Page
-![image](https://github.com/user-attachments/cd75773f-13ee-4063-b361-4a5289c54902)
-
-###  Payment Page
-![image](https://github.com/user-attachments//e92050e8-5e36-4a4b-a91d-1ba8d17beee5)
-
+![image](https://github.com/user-attachments/assets/2b1a3712-c532-427c-b234-e658e7b9f6de)
